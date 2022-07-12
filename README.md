@@ -2,7 +2,8 @@
 - 👀 I’m interested in learning new technologies everynow and then. 
 - 🌱 I’m currently learning Machine learning models.
 - 💞️ I’m looking to Learn more about AWS
-- 📫 How to reach me : IG : a.b.h.i.s.h.e.k_p.a.n.d.a
+- 📫 How to reach me : IG: a.b.h.i.s.h.e.k_p.a.n.d.a
+                        Email: abhishekpanda0215@gmail.com 
 
 
 <!---
