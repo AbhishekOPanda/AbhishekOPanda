@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @AbhishekOPanda
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in learning new technologies everynow and then. 
+- 🌱 I’m currently learning Machine learning models.
+- 💞️ I’m looking to Learn more about AWS
+- 📫 How to reach me : IG : a.b.h.i.s.h.e.k_p.a.n.d.a
+
 
 <!---
 AbhishekOPanda/AbhishekOPanda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
