@@ -5,6 +5,8 @@
 - 📫 How to reach me⤵️
 - IG: a.b.h.i.s.h.e.k_p.a.n.d.a
 - Email: abhishekpanda0215@gmail.com 
+- LinkedIn:https://www.linkedin.com/in/abhishekpanda2000/
+- Website: https://abhishekopanda.github.io/
 
 
 <!---
